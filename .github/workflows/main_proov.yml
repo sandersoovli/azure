@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'proov'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F82F6629C78547F5A126186203821BE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72872501461542B89C8D3244450793FA }}
           package: .
